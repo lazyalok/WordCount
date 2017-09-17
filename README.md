@@ -8,7 +8,7 @@ This Application counts the words in a file and saves the counts to a MongoDB se
 
 ## How we can use it?
 
-I have attcahed the jar (wordcount.jar). We can execute this jar by below command.
+I have attcahed the jar (wordcount.jar) in challenge.rar. We can execute this jar by below command.
 ###### java -jar [jar-path] [file-path] [mongodb-host] [port]
 For example on windows-
 ###### java -jar F:\challenge\wordcount.jar F:\challenge\names.txt localhost 27017
