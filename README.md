@@ -3,7 +3,9 @@
 ## What this project is about?
 
 This project aims to analyse a file with a large body of text and to count number of occurance of the words.
-This Application counts the words in a file and saves the counts to a MongoDB server. 
+This Application counts the words in a file and saves the counts to a MongoDB server.  
+
+## Note - This application will only accept txt file.
 
 
 ## How we can use it?
